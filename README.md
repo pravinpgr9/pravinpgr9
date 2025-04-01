@@ -2,7 +2,8 @@
 
 ## Full Stack Developer | Team Lead (Node.js / PHP)
 
-🚀 Passionate about building scalable applications and solving complex problems using modern web technologies. Experienced in **React.js, Node.js, TypeScript, NestJS, Express.js, Laravel, PHP, Core PHP, HTML, CSS, Bootstrap, Tailwind CSS, Shopify, and CodeIgniter**. Skilled in **MySQL, PostgreSQL, NoSQL, Firestore**, and cloud platforms like **AWS, Firebase, and GCP**.
+About Me
+I’m a passionate Full Stack Developer with 8 years of experience in building scalable and efficient applications. I specialize in React.js, Node.js, Laravel, PHP, TypeScript, NestJS, and cloud platforms such as AWS, Firebase, and GCP. My expertise lies in developing custom backend systems, integrating third-party services, and leading cross-functional teams to deliver impactful projects. I am always eager to learn new technologies and continuously improve my skills. I also enjoy mentoring and guiding others to help them grow in their careers.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pravinpgr9&color=blue&style=for-the-badge)
 
