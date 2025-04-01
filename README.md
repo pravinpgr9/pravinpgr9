@@ -43,7 +43,7 @@
 ## 📈 Work Experience
 
 ### **Senior Full Stack Developer / Backend Lead**  
-📍 **Praella Pvt Ltd, Surat, INDIA** (Feb 2024 – Jan 2025)  
+📍 **Praella Pvt Ltd, Surat, INDIA** (Feb 2024 – Feb 2025)  
 - Developed private **Shopify apps** for custom features like advanced discount logic and inventory management.
 - Architected scalable backend solutions using **NestJS** and **Express.js**.
 - Designed **secure APIs and middleware** for seamless third-party integrations.
