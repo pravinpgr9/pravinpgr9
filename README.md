@@ -74,29 +74,29 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 
 ## 1. Organization Projects – Where I Contributed
 
-## 1. [Healthplus Flipkart](https://healthplus.flipkart.com){:target="_blank"}  
+## 1. [Healthplus Flipkart](https://healthplus.flipkart.com) 
 **Tech Stack:** Node.js, Laravel, MongoDB, REST API, Bootstrap  
 - Developed REST APIs for mobile applications and backend portal.  
 - Created a **dynamic widget management system** using MongoDB.
 
-## 2. [FitMania App](https://www.fitmania.io){:target="_blank"}  
+## 2. [FitMania App](https://www.fitmania.io)
 **Tech Stack:** Node.js, Firebase Functions, Firestore, Express.js, React.js  
 - Built a **fitness platform** with real-time challenges and workout tracking.  
 - Developed API endpoints for authentication, workout management, and user progress tracking.
 
-## 3. [Art to Frame](https://www.arttoframe.com){:target="_blank"}  
+## 3. [Art to Frame](https://www.arttoframe.com)  
 **Tech Stack:** PHP (Laravel), MySQL, React.js, Twilio, Google Shopping API  
 - Developed a custom **CRM system** integrating multiple Gmail APIs.  
 - Built **RESTful APIs** for Android & iOS applications.
 
-## 4. [Gumbo App](https://itsagumbo.com){:target="_blank"}  
+## 4. [Gumbo App](https://itsagumbo.com)  
 **Tech Stack:** Laravel, MySQL, React.js, Bootstrap  
 - Designed and developed a **scalable event-sharing platform**.  
 - Implemented **real-time event memories** using MySQL and Laravel APIs.
 
 ## 2. Freelancing Projects – Work in Progress
 
-## 5. [Sparsh WellNess – Healthcare Application with API](https://sparsh-wellness-space.vercel.app/){:target="_blank"}  
+## 5. [Sparsh WellNess – Healthcare Application with API](https://sparsh-wellness-space.vercel.app/)  
 **Tech Stack:** Node.js, Express.js, MySQL, Bootstrap  
 - Designed and developed a **scalable backend system** to handle high-volume healthcare operations efficiently.  
 - Implemented a **real-time chat system** for seamless patient-doctor communication.  
@@ -106,7 +106,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 - Integrated **authentication and authorization** using JWT and session-based security.  
 - Deployed the application on **Vercel**, ensuring smooth and reliable hosting.
 
-## 6. [WebStunning – Company Website](https://webstunning.vercel.app/){:target="_blank"}  
+## 6. [WebStunning – Company Website](https://webstunning.vercel.app/)  
 **Tech Stack:** Laravel, PostgreSQL, Bootstrap  
 - Designed and developed a **scalable company website** using Laravel and PostgreSQL.  
 - Built a **dynamic content management system (CMS)** for easy updates and scalability.  
@@ -117,7 +117,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 - Ensured a **responsive and modern UI** using Bootstrap for a seamless user experience.  
 - Deployed on **Vercel**, ensuring fast and reliable hosting.
 
-## 7. [Pink Medic Blogger – Personal Blog Website](https://pink-medic-blogger.vercel.app/){:target="_blank"}  
+## 7. [Pink Medic Blogger – Personal Blog Website](https://pink-medic-blogger.vercel.app/)  
 **Tech Stack:** React.js, TypeScript, NestJS, Node.js, PostgreSQL, Redis, AWS  
 - Designed & developed a high-performance blogging platform with a **scalable backend** using NestJS and PostgreSQL.  
 - Built a **feature-rich admin panel & dashboard** for managing blog posts, user roles, and analytics.  
@@ -129,7 +129,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 - Ensured **SEO-friendly, responsive UI** using React.js and TypeScript.  
 - Deployed on **AWS & Vercel** for reliability, security, and scalability.
 
-## 8. [Goa Getaway Haven – Hotel Booking System](https://goa-getaway-haven.vercel.app/){:target="_blank"}  
+## 8. [Goa Getaway Haven – Hotel Booking System](https://goa-getaway-haven.vercel.app/)  
 **Tech Stack:** React.js, TypeScript, NestJS, Node.js, PostgreSQL, Redis, AWS  
 - Designed & developed a **scalable and secure hotel booking system** for seamless reservations.  
 - Implemented a **real-time booking management system** with availability tracking.  
@@ -141,7 +141,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 - Ensured a **responsive and SEO-friendly UI** using React.js and TypeScript.  
 - Deployed on **AWS & Vercel**, ensuring fast, secure, and reliable operations.
 
-## 9. [RoadWise Journey – Road Safety Awareness Platform](https://roadwise-journey.vercel.app/){:target="_blank"}  
+## 9. [RoadWise Journey – Road Safety Awareness Platform](https://roadwise-journey.vercel.app/)  
 **Tech Stack:** React.js, Express.js, MongoDB, TailwindCSS  
 - Designed & developed a **scalable web platform** to promote road safety awareness and education.  
 - Built an **interactive dashboard** to manage road safety campaigns, events, and community discussions.  
@@ -152,7 +152,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 - Ensured a **modern, responsive UI** with TailwindCSS for seamless user experience.  
 - Deployed on **Vercel**, ensuring high availability and fast performance.
 
-## 10. [Safari Sunshine Explorer – Adventure Travel Platform](https://safari-sunshine-explorer.vercel.app/){:target="_blank"}  
+## 10. [Safari Sunshine Explorer – Adventure Travel Platform](https://safari-sunshine-explorer.vercel.app/)  
 **Tech Stack:** React.js, Express.js, PostgreSQL, TailwindCSS, AWS SES, EC2, RDS, S3 Cloud  
 - Designed & developed a **seamless travel booking platform** for adventure enthusiasts to explore safaris and excursions.  
 - Built an **interactive booking system** allowing users to browse, book, and manage travel packages.  
