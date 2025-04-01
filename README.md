@@ -191,7 +191,7 @@ I’m a passionate Full Stack Developer with 8 years of experience in building s
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravinpgr9/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravin-pagare-b5481556/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pravinpgr9)  
 📧 **Email:** pravinpgr9@gmail.com  
 📍 **Location:** Nashik, India  
